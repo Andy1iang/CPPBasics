@@ -1,0 +1,4 @@
+#ifndef CHAPTER2_CALCULATOR_H
+#define CHAPTER2_CALCULATOR_H
+void calculator();
+#endif//CHAPTER2_CALCULATOR_H
